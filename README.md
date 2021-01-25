@@ -1,7 +1,6 @@
 # fireuplawyers <!-- omit in toc -->
 
-> Collection of random things with little or great meaning.
-
+> Collection of meaningful things.
 
 [![Open Issues](https://badgen.net/github/open-issues/longpdo/neumorphism)](https://github.com/longpdo/neumorphism/issues)
 [![License](https://badgen.net/github/license/longpdo/neumorphism)](LICENSE)
